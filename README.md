@@ -6,7 +6,7 @@
 [![GitHub Release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=flat-square)](https://github.com/prasathmani/tinyfilemanager/releases)
  [![GitHub License](https://img.shields.io/github/license/prasathmani/tinyfilemanager.svg?style=flat-square)](https://github.com/prasathmani/tinyfilemanager/blob/master/LICENSE) 
 [![Paypal](https://img.shields.io/badge/Donate-Paypal-lightgrey.svg?style=flat-square)](https://www.paypal.me/prasathmani)
-> It is web based file manager and it is a simple, fast and small file manager with a single file, multi-language ready web application for storing, uploading, editing and managing files and folders online via web browser. The Application runs on PHP 5.5+, It allows the creation of multiple users and each user can have its own directory and a build-in support for managing text files with cloud9 IDE and it supports syntax highlighting for over 150+ languages and over 35+ themes.
+> C'est un gestionnaire de fichiers simple, rapide et petit basé sur le Web.Une seule application Web prête pour gérer le stockage, le téléchargement, l'édition et la gestion de fichiers et de dossiers en ligne via un navigateur Web. L'application fonctionne sur PHP 5.5+, elle permet la création de plusieurs comptes utilisateurs, chaque utilisateur pouvant avoir son propre répertoire, un support intégré pour gérer les fichiers texte avec cloud9 IDE et prenant en charge la coloration syntaxique pour plus de 150 langues et plus de 35 thèmes.
 
 ## Demo
 [Demo](https://tinyfilemanager.github.io/demo/)
@@ -15,7 +15,7 @@
 
 
 ## Documentation
-Tinyfilemanager is highly documented on the [wiki pages](https://github.com/prasathmani/tinyfilemanager/wiki).
+Tinyfilemanager est très documenté sur le [wiki pages](https://github.com/prasathmani/tinyfilemanager/wiki).
 
 
 [![Tiny File Manager](screenshot.gif)](screenshot.gif)
