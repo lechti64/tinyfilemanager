@@ -36,32 +36,32 @@ Nom d'utilisateur/mot de passe par défaut: **admin/admin@123** and **user/12345
 
 :warning: Avertissement: veuillez définir votre propre nom d'utilisateur et mot de passe dans `$auth_users` avant utilisation. le mot de passe est chiffré avec <code>password_hash()</code>. pour générer un nouveau hachage de mot de passe [cliquez ici](https://tinyfilemanager.github.io/docs/pwd.html)
 
-Pour activer/désactiver le jeu d'authentification choisir vrai ou faux ici `$use_auth` (true or false).
+Pour activer/désactiver le jeu d'authentification choisir "vrai ou faux" en éditant cette variable `$use_auth` (true or false).
 
 
-### :loudspeaker: Features 
+### :loudspeaker: Caractéristiques 
 
-- :cd: Open Source, light and extremely simple
-- :iphone: Mobile friendly view for touch devices
-- :information_source: Basic features likes Create, Delete, Modify, View, Quick View, Download, Copy and Move files 
-- :arrow_double_up: Ajax Upload, Ability to drag & drop, upload from URL, multiple files upload with file extensions filter 
-- :file_folder: Ability to create folders and files
-- :gift: Ability to compress, extract files (`zip`, `tar`)
-- :sunglasses: Support user permissions - based on session and each user root folder mapping
-- :floppy_disk: Copy direct file URL
-- :pencil2: Cloud9 IDE - Syntax highlighting for over `150+` languages, Over `35+` themes with your favorite programming style
-- :page_facing_up: Google/Microsoft doc viewer helps you preview `PDF/DOC/XLS/PPT/etc`. 25 MB can be previewed with the Google Drive viewer
-- :zap: Backup files and IP blacklist and whitelist
-- :mag_right: Search -  Search and filter files using `datatable js`
-- :file_folder: Exclude folders and files from listing
-- :globe_with_meridians: Multi-language(20+) support and for translations `translation.json` is file required
-- :bangbang: lots more...
+- :cd: Open Source, léger et extrêmement simple à utiliser
+- :iphone: Affichage convivial pour les appareils tactiles
+- :information_source: Les fonctionnalités de base que vous aimerez: Créer, Supprimer, Modifier, Afficher, Affichage rapide, Télécharger, Envoyer, Copier et déplacer des fichiers 
+- :arrow_double_up: Ajax Upload, Possibilité de glisser-déposer, d'envoyer à partir d'une URL, d'envoyer plusieurs fichiers avec un filtre d'extensions de fichier
+- :file_folder: Possibilité de créer des dossiers et des fichiers
+- :gift: Possibilité de compresser, d'extraire des fichiers (`zip`, `tar`)
+- :sunglasses: Prise en charge des autorisations utilisateur - en fonction de la session et de chaque mappage de dossier racine utilisateur
+- :floppy_disk: Copier l'URL du fichier directement
+- :pencil2: Cloud9 IDE - Syntaxe en surbrillance pour plus de `150+` langages, Plus de `35+` thèmes avec votre style de programmation préféré
+- :page_facing_up: Google/Microsoft et leur visionneuse de documents vous aide à prévisualiser `PDF/DOC/XLS/PPT/etc`. 25 Mo peuvent être prévisualisés avec la visionneuse Google Drive
+- :zap: Fichiers de sauvegarde et liste noire IP et liste blanche sont supportés
+- :mag_right: Recherche -  Rechercher et filtrer des fichiers à l'aide de `datatable js`
+- :file_folder: Exclure des dossiers et des fichiers de la liste
+- :globe_with_meridians: Multi-langage(20+) support et traductions `translation.json` est le fichier requis pour cela.
+- :bangbang: Et beaucoup plus...
 
 
 ### <a name=license></a>License, Credit  
 
-- Available under the [GNU license](https://github.com/prasathmani/tinyfilemanager/blob/master/LICENSE)
-- Original concept and development by github.com/alexantr/filemanager
-- CDN Used - _jQuery, Bootstrap, Font Awesome, Highlight js, ace js, DropZone js, ekko-lightbox js, and DataTable js_
-- To report a bug or request a feature, please file an [issue](https://github.com/prasathmani/tinyfilemanager/issues)
-- [Contributors](https://github.com/prasathmani/tinyfilemanager/wiki/Authors-and-Contributors)
+- Disponible sous [GNU license](https://github.com/prasathmani/tinyfilemanager/blob/master/LICENSE)
+- Concept original et développement par github.com/alexantr/filemanager
+- CDN Utilisés - _jQuery, Bootstrap, Font Awesome, Highlight js, ace js, DropZone js, ekko-lightbox js, et DataTable js_
+- Pour signaler un bogue ou demander une fonctionnalité, veuillez déposer ici une [demande/communication](https://github.com/prasathmani/tinyfilemanager/issues)
+- [Contributeurs](https://github.com/prasathmani/tinyfilemanager/wiki/Authors-and-Contributors)
