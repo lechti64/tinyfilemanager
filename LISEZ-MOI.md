@@ -15,7 +15,7 @@
 
 
 ## Documentation
-Tinyfilemanager est très documenté sur le [wiki pages](https://github.com/prasathmani/tinyfilemanager/wiki).
+Tinyfilemanager est très documenté sur les [pages wiki](https://github.com/prasathmani/tinyfilemanager/wiki) officielles de son développeur.
 
 
 [![Tiny File Manager](screenshot.gif)](screenshot.gif)
