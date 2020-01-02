@@ -20,19 +20,19 @@ Tinyfilemanager est très documenté sur le [wiki pages](https://github.com/pras
 
 [![Tiny File Manager](screenshot.gif)](screenshot.gif)
 
-## Requirements
+## Exigences
 
-- PHP 5.5.0 or higher.
-- Fileinfo, iconv, zip, tar and mbstring extensions are strongly recommended.
+- PHP 5.5.0 ou plus.
+- les extensions Fileinfo, iconv, zip, tar et mbstring sont fortement recommandées.
 
-## How to use
+## Comment l'utiliser
 
-Download ZIP with latest version from master branch.
+Télécharger le fichier ZIP avec la dernière version de la branche principale (master).
 
-Just copy the tinyfilemanager.php to your webspace - thats all :)
-You can also change the file name from "tinyfilemanager.php" to something else, you know what i meant for.
+Copiez simplement le fichier tinyfilemanager.php sur votre espace web - c'est tout :)
+Vous pouvez également changer le nom de fichier de "tinyfilemanager.php" en tout chose d'autre, vous savez ce que je voulais dire question sécurité....
 
-Default username/password: **admin/admin@123** and **user/12345**.
+Nom d'utilisateur/mot de passe par défaut: **admin/admin@123** and **user/12345**.
 
 :warning: Warning: Please set your own username and password in `$auth_users` before use. password is encrypted with <code>password_hash()</code>. to generate new password hash [here](https://tinyfilemanager.github.io/docs/pwd.html)
 
