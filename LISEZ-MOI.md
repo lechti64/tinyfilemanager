@@ -34,9 +34,9 @@ Vous pouvez également changer le nom de fichier de "tinyfilemanager.php" en tou
 
 Nom d'utilisateur/mot de passe par défaut: **admin/admin@123** and **user/12345**.
 
-:warning: Warning: Please set your own username and password in `$auth_users` before use. password is encrypted with <code>password_hash()</code>. to generate new password hash [here](https://tinyfilemanager.github.io/docs/pwd.html)
+:warning: Avertissement: veuillez définir votre propre nom d'utilisateur et mot de passe dans `$auth_users` avant utilisation. le mot de passe est chiffré avec <code>password_hash()</code>. pour générer un nouveau hachage de mot de passe [cliquez ici](https://tinyfilemanager.github.io/docs/pwd.html)
 
-To enable/disable authentication set `$use_auth` to true or false.
+Pour activer/désactiver le jeu d'authentification choisir vrai ou faux ici `$use_auth` (true or false).
 
 
 ### :loudspeaker: Features 
