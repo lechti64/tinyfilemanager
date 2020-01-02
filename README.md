@@ -6,5 +6,5 @@ Gestionnaire de fichiers basé sur le Web dans un seul fichier PHP, gérez vos f
 
 ## Demo idsponible ici
 [Demo](https://tinyfilemanager.github.io/demo/)
-his works for me: [Page Link](https://github.com/lechti64/tinyfilemanager/blob/master/LISEZ-MOI.md "(target|_blank)")
-[Page Lien](https://github.com/lechti64/tinyfilemanager/blob/master/LISEZ-MOI.md|_blank)
+
+[Page Lien]("https://github.com/lechti64/tinyfilemanager/blob/master/LISEZ-MOI.md|_blank")
