@@ -6,6 +6,3 @@ Gestionnaire de fichiers basé sur le Web dans un seul fichier PHP, gérez vos f
 
 ## Demo idsponible ici
 [Demo](https://tinyfilemanager.github.io/demo/)
-
-
-[Google](https://google.com" target="_blank)
